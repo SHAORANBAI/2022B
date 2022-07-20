@@ -1,0 +1,6 @@
+﻿  0705.C
+C:\Users\백소연\source\repos\0705study\0705study\0705.C(31,24): error C2146: 구문 오류: ';'이(가) 'i' 식별자 앞에 없습니다.
+C:\Users\백소연\source\repos\0705study\0705study\0705.C(31,27): error C2059: 구문 오류: ')'
+C:\Users\백소연\source\repos\0705study\0705study\0705.C(32,2): error C2143: 구문 오류: ')'이(가) '{' 앞에 없습니다.
+C:\Users\백소연\source\repos\0705study\0705study\0705.C(36,3): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\백소연\source\repos\0705study\0705study\0705.C(38,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
